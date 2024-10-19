@@ -9,3 +9,21 @@
   - `Admission Type`, `Length of Stay`, `Billing Amount`
   - `Date of Admission`, `Discharge Date`
 - **Purpose of Dataset**: The dataset was used to analyze healthcare billing, hospital performance, and patient outcomes.
+
+## Data Cleaning
+After downloading the dataset from Kaggle, the data cleaning process was performed using Microsoft Excel to ensure that the data was accurate and ready for analysis. The key data cleaning steps included:
+
+1. **Fixing Inconsistent Values**:
+   - **Hospital Names**: Corrected inconsistent hospital names (e.g., removed entries that began with "and" or ended with a comma).
+   - **Doctor Titles**: Removed prefixes like "Mr." and suffixes like "PhD" or "MD" to standardize the names of doctors.
+
+3. **Calculating New Fields**:
+   - Added a calculated column for **Length of Stay**, based on the difference between admission and discharge dates.
+
+4. **Handling Negative Billing Amounts**:
+   - Identified and reviewed negative billing amounts to determine if they were refunds, adjustments, or errors. Decided whether to include or exclude these records in the analysis.
+
+5. **Dropping Duplicate Values**:
+   - Identified and removed any duplicate records to ensure that each patient visit was unique. This step helped to prevent inflated counts or incorrect aggregate calculations.
+
+After cleaning the data in Excel, it was saved as a `.csv` file for importing into Tableau for further analysis and visualization.
