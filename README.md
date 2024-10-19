@@ -12,6 +12,8 @@ This project analyzes healthcare billing data and patient length of stay across 
   - `Admission Type`, `Length of Stay`, `Billing Amount`
   - `Date of Admission`, `Discharge Date`
 - **Purpose of Dataset**: The dataset was used to analyze healthcare billing, hospital performance, and patient outcomes.
+- The cleaned dataset used for this analysis can be downloaded from the following link:
+[Download Cleaned Dataset](https://drive.google.com/file/d/17PY2UqWk4zXvqAzuDpcfoh2NQnGesQ4N/view?usp=sharing)
 
 ## Data Cleaning
 After downloading the dataset from Kaggle, the data cleaning process was performed using Microsoft Excel to ensure that the data was accurate and ready for analysis. The key data cleaning steps included:
