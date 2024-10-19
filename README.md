@@ -30,3 +30,7 @@ After downloading the dataset from Kaggle, the data cleaning process was perform
    - Identified and removed any duplicate records to ensure that each patient visit was unique. This step helped to prevent inflated counts or incorrect aggregate calculations.
 
 After cleaning the data in Excel, it was saved as a `.csv` file for importing into Tableau for further analysis and visualization.
+
+## Interactive Dashboard
+The interactive Tableau dashboard is available [here]([https://public.tableau.com/](https://public.tableau.com/app/profile/axel.rodriguez5371/viz/HealthInsuranceDashboard_17292722821110/HealthInusranceDashboard?publish=yes)).
+
