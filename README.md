@@ -4,8 +4,9 @@
 This project analyzes healthcare billing data and patient length of stay across various hospitals. The goal is to provide insights into healthcare costs, patient outcomes, and hospital performance. The interactive dashboard was built using Tableau, and the data has been analyzed to answer key business questions related to cost optimization and operational efficiency.
 
 ## Rlevenat Links:
-- Cleaned Excel Data: https://drive.google.com/file/d/17PY2UqWk4zXvqAzuDpcfoh2NQnGesQ4N/view?usp=sharing
-- Tableau Dashboard: https://public.tableau.com/app/profile/axel.rodriguez5371/viz/HealthInsuranceDashboard_17292722821110/HealthInusranceDashboard?publish=yes
+Cleaned Excel Data:
+https://drive.google.com/file/d/17PY2UqWk4zXvqAzuDpcfoh2NQnGesQ4N/view?usp=sharing
+Tableau Dashboard: https://public.tableau.com/app/profile/axel.rodriguez5371/viz/HealthInsuranceDashboard_17292722821110/HealthInusranceDashboard?publish=yes
 
 ## Dataset
 - **Source**: The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/), which provided a synthetic healthcare dataset. It contains patient information, admission details, billing amounts, and other healthcare-related attributes.
