@@ -1,4 +1,4 @@
-# tableau_healthcare_project
+# Excel and Tableau Healthcare Project
 
 ## Overview
 This project analyzes healthcare billing data and patient length of stay across various hospitals. The goal is to provide insights into healthcare costs, patient outcomes, and hospital performance. The interactive dashboard was built using Tableau, and the data has been analyzed to answer key business questions related to cost optimization and operational efficiency.
