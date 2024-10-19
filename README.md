@@ -34,3 +34,5 @@ After cleaning the data in Excel, it was saved as a `.csv` file for importing in
 ## Interactive Dashboard
 The interactive Tableau dashboard is available here: https://public.tableau.com/app/profile/axel.rodriguez5371/viz/HealthInsuranceDashboard_17292722821110/HealthInusranceDashboard?publish=yes
 
+## Conclusion
+This dashboard can provide valuable insights into hospital billing practices, patient outcomes, and operational efficiency. Hospitals can optimize their resource allocation and improve financial performance by focusing on key metrics.
