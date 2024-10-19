@@ -5,6 +5,7 @@
 - **Data Size and Attributes**: The dataset includes information such as:
   - `Age`, `Gender`, `Blood Type`
   - `Medical Condition`
-  - `Hospital`, `Doctor`
+  - `Hospital`, `Doctor`, `Insurance Provider`
   - `Admission Type`, `Length of Stay`, `Billing Amount`
+  - `Date of Admission`, `Discharge Date`
 - **Purpose of Dataset**: The dataset was used to analyze healthcare billing, hospital performance, and patient outcomes.
