@@ -1,5 +1,8 @@
 # tableau_healthcare_project
 
+## Overview
+This project analyzes healthcare billing data and patient length of stay across various hospitals. The goal is to provide insights into healthcare costs, patient outcomes, and hospital performance. The interactive dashboard was built using Tableau, and the data has been analyzed to answer key business questions related to cost optimization and operational efficiency.
+
 ## Dataset
 - **Source**: The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/), which provided a synthetic healthcare dataset. It contains patient information, admission details, billing amounts, and other healthcare-related attributes.
 - **Data Size and Attributes**: The dataset includes information such as:
